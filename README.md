@@ -1,7 +1,7 @@
 # face-melt
 Facial de-identification for Head CTs and potentially MRIs
 
-This code is an adaptation from the idea in this [nice paper](https://pubs.rsna.org/doi/10.1148/radiol.2020192617) published in _Radiology_. 
+This code is an adaptation from the idea in this [nice paper](https://pubs.rsna.org/doi/10.1148/radiol.2020192617) published in [_Radiology_](https://pubs.rsna.org/journal/radiology). 
 
 ## Concept
 
